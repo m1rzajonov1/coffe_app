@@ -1,4 +1,4 @@
-import 'package:cappuccino/menyu.dart';
+import 'package:cofe/menyu.dart';
 import 'package:flutter/material.dart';
 
 void main() {

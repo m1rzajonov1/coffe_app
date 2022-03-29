@@ -1,10 +1,9 @@
 // ignore_for_file: non_constant_identifier_names
 
 import 'dart:ui';
-
-import 'package:cappuccino/cart.dart';
-import 'package:cappuccino/price.dart';
+import 'package:cofe/price.dart';
 import 'package:flutter/material.dart';
+import 'cart.dart';
 import 'data/datas.dart';
 
 class Menyu extends StatefulWidget {

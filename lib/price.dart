@@ -1,6 +1,7 @@
-import 'package:cappuccino/data/datas.dart';
-import 'package:cappuccino/menyu.dart';
 import 'package:flutter/material.dart';
+
+import 'data/datas.dart';
+import 'menyu.dart';
 
 class Price extends StatefulWidget {
   int price;
